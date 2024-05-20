@@ -1,0 +1,8 @@
+.Creditsummary{
+    display:  flex;
+    justify-content: space-between;
+    
+}
+.main-divv{
+    max-width: 90%;
+}
